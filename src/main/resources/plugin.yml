@@ -1,0 +1,9 @@
+main: online.flowerinsnow.customscoreboard.CustomScoreboard
+name: CustomScoreboard
+version: 1.0.0
+author: flowerinsnow
+depend:
+  - PlaceholderAPI
+commands:
+  reloadcustomscoreboard:
+    permission: customscoreboard.reload

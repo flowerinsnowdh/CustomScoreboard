@@ -1,0 +1,8 @@
+scoreboard:
+  title: '&f纯净生存'
+  lines:
+    - '&b您的位置：&a%customscoreboard_locx% %customscoreboard_locy% %customscoreboard_locz%'
+    - '&b您游玩了此服务器&a%customscoreboard_playtime%&a秒'
+    - ''
+    - '&emc.flowerinsnow.online'
+  update-tick: 20
